@@ -1,5 +1,5 @@
 {
-  "name": "string-concat-test",
+  "name": "public-string-concat-test",
   "version": "1.3.0",
   "description": "package for concat given array of strings",
   "main": "index.js",
